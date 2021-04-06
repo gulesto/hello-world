@@ -1,2 +1,4 @@
 # hello-world
-This is my first program on my first day
+l'm a formerComputer Science graduate.
+l enjoy writing code and learning new skills
+excited and looking forward to contribute
